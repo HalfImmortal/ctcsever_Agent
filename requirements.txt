@@ -1,0 +1,10 @@
+Pillow
+elasticsearch_dsl
+fastapi
+starlette
+uvicorn
+torch
+opencv-python
+numpy
+python-docx
+torchvision
